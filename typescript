@@ -492,3 +492,46 @@ wallocs@CF165-13:~$ exi[Kit
 exit
 
 Script done on Thu 11 Apr 2019 10:41:49 AM PDT
+Script started on Thu 11 Apr 2019 10:51:26 AM PDT
+wallocs@CF165-13:~/csci241/lab-1-sethwalloch$ gradle run
+[0m
+
+[1A[1m> Connecting to Daemon[m[22D[1B[2A[1m<[0;32;1m=========[0;39;1m----> 75% EXECUTING [0s][m[34D[1B[1m> :run[m[0K[6D[1B[2A[0K
+[1m> Task :run[m
+Hello 241!
+
+[32;1mBUILD SUCCESSFUL[0;39m in 0s
+2 actionable tasks: 1 executed, 1 up-to-date
+[0K
+[0K
+[2A[1m<[0;32;1;0;39;1m-------------> 0% WAITING[m[26D[1B[1m> :run[m[6D[1B[2A[2K[1B[2K[1A[0mwallocs@CF165-13:~/csci241/lab-1-sethwalloch$ gradle run --args "cscu[Ki [K241[K[K[K[K[K[K[K241"
+[0m
+
+[1A[1m> Connecting to Daemon[m[22D[1B[2A[1m<[0;32;1m=========[0;39;1m----> 75% EXECUTING [0s][m[34D[1B[1m> :run[m[0K[6D[1B[2A[0K
+[1m> Task :run[m
+Hello 241!
+
+[32;1mBUILD SUCCESSFUL[0;39m in 0s
+2 actionable tasks: 1 executed, 1 up-to-date
+[0K
+[0K
+[2A[1m<[0;32;1;0;39;1m-------------> 0% WAITING[m[26D[1B[1m> :run[m[6D[1B[2A[2K[1B[2K[1A[0mwallocs@CF165-13:~/csci241/lab-1-sethwalloch$ cd
+wallocs@CF165-13:~$ cd
+wallocs@CF165-13:~$ cd csci241
+wallocs@CF165-13:~/csci241$ 
+Display all 4817 possibilities? (y or n)
+wallocs@CF165-13:~/csci241$ 
+wallocs@CF165-13:~/csci241$ cd lab-1-sethwalloch/
+wallocs@CF165-13:~/csci241/lab-1-sethwalloch$ gradle run
+[0m
+[1A
+[1m> Task :run[m
+Hello 241!
+
+[32;1mBUILD SUCCESSFUL[0;39m in 0s
+2 actionable tasks: 1 executed, 1 up-to-date
+
+[1A[1m<[0;32;1;0;39;1m-------------> 0% WAITING[m[26D[1B[1A[1m<[0;32;1;0;39;1m-------------> 0% WAITING[m[26D[1B[1A[2K[0mwallocs@CF165-13:~/csci241/lab-1-sethwalloch$ exit
+exit
+
+Script done on Thu 11 Apr 2019 10:57:31 AM PDT
